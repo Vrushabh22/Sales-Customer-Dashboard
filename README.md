@@ -32,10 +32,11 @@ The dashboard includes several interactive filters to help users customize their
 
 ## Tools Used
 
-- **Tableau** – Data Visualization & Dashboarding
-- **Data Blending & Aggregation
-- **Year-over-Year Comparison & KPI Metrics
-- **Interactive Filtering & Dynamic Visuals
+- **Tableau** – Data Visualization & Dashboarding  
+- **Data Blending & Aggregation**  
+- **Year-over-Year Comparison & KPI Metrics**  
+- **Interactive Filtering & Dynamic Visuals**
+
   
 
 
