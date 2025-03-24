@@ -36,7 +36,12 @@ The dashboard includes several interactive filters to help users customize their
 - **Year-over-Year Comparison & KPI Metrics**  
 - **Interactive Filtering & Dynamic Visuals**
 
-  
+
+---
+
+## Access the Dashboard
+
+To view the interactive dashboard, click on the following link: https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17408703567400/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
