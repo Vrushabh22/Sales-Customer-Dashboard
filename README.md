@@ -1,6 +1,5 @@
 # Sales-Customer-Dashboard
 
-## Sales & Customer Dashboard | 2023
 
 Welcome to the **Sales & Customer Dashboard** repository. This project features an interactive Tableau dashboard that provides a comprehensive visual analysis of sales performance, customer behavior, and product trends for the year **2023**.
 
